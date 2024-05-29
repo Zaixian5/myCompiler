@@ -23,8 +23,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbspgcc -o myCompiler.exe myCompiler.c myCompilerlex.c<br><br>
 <li>생성된 myCompiler.exe가 바로 컴파일러가 된다.</li>
 <br>
-4. StackSim<br>
+4. StackSim (C) Copyright by Jae Sung Lee (jasonlee@cbnu.ac.kr), 2022.<br>
 myCompiler.exe로 .cbu 파일을 컴파일하면 myAssembly.asm 파일을 만들어주는데<br>
 이 어셈블리 파일에는 가상의 스택 기계 코트가 쓰여져 있다. 이를 실행 시켜주는 프로그램이<br>StackSim이다.<br><br>
 이 프로그램과 가상 스택 기계 코드는 교수님이 만든 것으로 저작권은 교수님에게 있다.<br><br>
-(C) Copyright by Jae Sung Lee (jasonlee@cbnu.ac.kr), 2022.
