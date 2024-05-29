@@ -1,0 +1,7 @@
+begin
+num1 is 2 plus 3.
+num2 is 5 times 9.
+num3 is 10 divided by 2.
+num4 is 15 minus 29.
+num5 is num1 plus num2 times num3.
+finish
